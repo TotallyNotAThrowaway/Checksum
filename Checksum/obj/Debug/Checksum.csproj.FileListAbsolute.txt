@@ -1,0 +1,12 @@
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Debug\Checksum.exe.config
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.csprojResolveAssemblyReference.cache
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.AboutBox1.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.Form1.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.Properties.Resources.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.csproj.GenerateResource.Cache
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Debug\Checksum.exe
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Debug\Checksum.pdb
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.exe
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.pdb
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.ParityCheck.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.Checksum_test.resources
