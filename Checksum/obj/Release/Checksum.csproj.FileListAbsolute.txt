@@ -1,0 +1,11 @@
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Release\Checksum.exe.config
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Release\Checksum.exe
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\bin\Release\Checksum.pdb
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.AboutBox1.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.Checksum_test.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.Form1.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.ParityCheck.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.Properties.Resources.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.csproj.GenerateResource.Cache
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.exe
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.pdb
