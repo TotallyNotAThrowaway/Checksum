@@ -10,3 +10,5 @@ c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.pdb
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.ParityCheck.resources
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.Checksum_test.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.md5_test.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Debug\Checksum.Luhn.resources

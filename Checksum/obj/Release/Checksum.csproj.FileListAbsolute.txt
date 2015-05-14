@@ -9,3 +9,6 @@ c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Relea
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.csproj.GenerateResource.Cache
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.exe
 c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.pdb
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.csprojResolveAssemblyReference.cache
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.md5_test.resources
+c:\users\pavyf\documents\visual studio 2013\Projects\Checksum\Checksum\obj\Release\Checksum.Luhn.resources

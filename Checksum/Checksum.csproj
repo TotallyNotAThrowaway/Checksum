@@ -65,6 +65,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Luhn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Luhn.Designer.cs">
+      <DependentUpon>Luhn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="md5_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="md5_test.Designer.cs">
+      <DependentUpon>md5_test.cs</DependentUpon>
+    </Compile>
     <Compile Include="ParityCheck.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +93,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Luhn.resx">
+      <DependentUpon>Luhn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="md5_test.resx">
+      <DependentUpon>md5_test.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ParityCheck.resx">
       <DependentUpon>ParityCheck.cs</DependentUpon>

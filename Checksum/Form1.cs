@@ -57,5 +57,17 @@ namespace Checksum
             Checksum_test box = new Checksum_test();
             box.Show();
         }
+
+        private void mD5TestToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            md5_test box = new md5_test();
+            box.Show();
+        }
+
+        private void luhnTestToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Luhn box = new Luhn();
+            box.Show();
+        }
     }
 }

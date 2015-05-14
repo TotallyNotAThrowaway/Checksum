@@ -41,6 +41,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.mD5TestToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.luhnTestToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,7 +70,9 @@
             // 
             this.newToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.parityCheckToolStripMenuItem,
-            this.checksumTestToolStripMenuItem});
+            this.checksumTestToolStripMenuItem,
+            this.mD5TestToolStripMenuItem,
+            this.luhnTestToolStripMenuItem});
             this.newToolStripMenuItem.Name = "newToolStripMenuItem";
             this.newToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.newToolStripMenuItem.Text = "New..";
@@ -151,6 +155,20 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // mD5TestToolStripMenuItem
+            // 
+            this.mD5TestToolStripMenuItem.Name = "mD5TestToolStripMenuItem";
+            this.mD5TestToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.mD5TestToolStripMenuItem.Text = "Hash test";
+            this.mD5TestToolStripMenuItem.Click += new System.EventHandler(this.mD5TestToolStripMenuItem_Click);
+            // 
+            // luhnTestToolStripMenuItem
+            // 
+            this.luhnTestToolStripMenuItem.Name = "luhnTestToolStripMenuItem";
+            this.luhnTestToolStripMenuItem.Size = new System.Drawing.Size(160, 22);
+            this.luhnTestToolStripMenuItem.Text = "Luhn test";
+            this.luhnTestToolStripMenuItem.Click += new System.EventHandler(this.luhnTestToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -188,6 +206,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.ToolStripMenuItem mD5TestToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem luhnTestToolStripMenuItem;
     }
 }
 
